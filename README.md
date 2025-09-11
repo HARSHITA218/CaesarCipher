@@ -13,6 +13,8 @@ A simple **Tic Tac Toe** game implemented in **Java** using **Swing** for the GU
 ## Screenshots
 
 <img width="618" height="614" alt="image" src="https://github.com/user-attachments/assets/5b720630-eab4-48f6-873c-413c5c0d8a6c" />
+<img width="1392" height="754" alt="image" src="https://github.com/user-attachments/assets/00f6f6f7-1121-4a5c-9dcf-76ba67815d79" />
+
 
 
 
