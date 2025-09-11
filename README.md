@@ -12,8 +12,9 @@ A simple **Tic Tac Toe** game implemented in **Java** using **Swing** for the GU
 
 ## Screenshots
 
-![Screenshot](path/to/screenshot.png)
-*(Replace with your actual screenshot path)*
+<img width="618" height="614" alt="image" src="https://github.com/user-attachments/assets/5b720630-eab4-48f6-873c-413c5c0d8a6c" />
+
+
 
 ## How to Play
 
